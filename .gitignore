@@ -1,7 +1,0 @@
-results/*
-data/*
-#!results/README.txt
-#!data/README.txt
-.Rhistory
-.DS_Store
-
